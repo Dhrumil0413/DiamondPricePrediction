@@ -16,7 +16,7 @@ def requiredPacks(file_path:str):
                 return requirement_list
 setup (
     name = 'venv',
-    version = VERSION,s
+    version = VERSION,
     description = DESCRIPTION,
     long_description = LONG_DESCRIPTION,
     author = 'Dhrumil V.',
